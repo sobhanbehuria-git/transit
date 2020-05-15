@@ -1,0 +1,24 @@
+[
+  {
+    "name": "web",
+    "image": "581641538996.dkr.ecr.us-east-1.amazonaws.com/cms:latest",
+    "memoryReservation": 300,
+    "portMappings": [
+      {
+        "containerPort": 8080,
+        "hostPort": 8080,
+        "protocol": "tcp"
+      }
+      
+    ],
+   "logConfiguration": {
+      "logDriver": "awslogs",
+      "options": {
+        "awslogs-group": "/ecs/cms-dev",
+        "awslogs-region": "us-east-1",
+        "awslogs-stream-prefix": "ecs"
+        }
+    }
+  }
+
+ ]

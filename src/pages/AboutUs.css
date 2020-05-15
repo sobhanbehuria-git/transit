@@ -1,0 +1,59 @@
+/* About us css */
+.Banner {
+  background-image: "./banner.png";
+}
+
+.videobox {
+  background: url("../images/shutterstock_400563190.jpg") no-repeat top center /
+    cover;
+  height: 450px;
+  padding-top: 180px;
+}
+
+.green-btn {
+  color: #fff;
+  background: #649140;
+  border: 1px solid #649140;
+}
+
+.nav-item > a.green-btn.active,
+.nav-item > a.green-btn:hover {
+  background: #fff;
+  color: #649140;
+}
+
+.green {
+  color: #649140;
+}
+
+.playicon {
+  position: absolute;
+  right: 8%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  width: 65px;
+}
+.playtext {
+  position: absolute;
+  right: 6%;
+  top: 60%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.tile-button-box {
+  max-width: 100;
+  height: auto;
+  background: url("../images/shutterstock_400563190.jpg") no-repeat top center /
+    cover;
+}
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  border: none;
+  cursor: pointer;
+}

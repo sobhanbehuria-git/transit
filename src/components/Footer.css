@@ -1,0 +1,13 @@
+/* Footer css */
+footer a,
+footer a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+footer li {
+  list-style-type: none;
+}
+footer ul {
+  padding-inline-start: 0;
+}

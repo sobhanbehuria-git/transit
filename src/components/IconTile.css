@@ -1,0 +1,19 @@
+.iconTile {
+  padding: 20px 12%;
+}
+
+.iconTile .conthd-icon {
+  line-height: 35px;
+}
+
+.iconTile p {
+  line-height: 19px;
+}
+
+.iconTile a {
+  background: #64913f;
+  padding: 4px 10px;
+  font-size: 12px;
+  color: #fff;
+  border-radius: 5px;
+}

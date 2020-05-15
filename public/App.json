@@ -1,0 +1,176 @@
+{
+  "header": {
+    "topHeader": {
+      "text": "Follow Us",
+      "links": [
+        {
+          "network": "facebook",
+          "url": "https://facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "network": "instagram",
+          "url": "https://instagram.com"
+        }
+      ]
+    },
+    "menu": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "About Us",
+        "submenu": [
+          {
+            "title": "About Organization",
+            "link": "/aboutus"
+          },
+          {
+            "title": "Our Team",
+            "link": "/AboutUs2"
+          },
+          {
+            "title": "TQEP Scholarships",
+            "link": "/AboutUs3"
+          },
+          {
+            "title": "FAQs",
+            "link": "/AboutUs4"
+          }
+        ]
+      },
+      {
+        "title": "TQEP/TD",
+        "submenu": [
+          {
+            "title": "TQEP/TD 1",
+            "link": "/TQEPTD"
+          },
+          {
+            "title": "TQEP/TD 2",
+            "link": "/TQEPTD2"
+          }
+        ]
+      },
+      {
+        "title": "Events",
+        "link": "/events"
+      },
+      {
+        "title": "Resources",
+        "submenu": [
+          {
+            "title": "Resources 1",
+            "link": "/Resources"
+          },
+          {
+            "title": "Resources 2",
+            "link": "/Resources2"
+          }
+        ]
+      },
+      {
+        "title": "Activity Lessons",
+        "submenu": [
+          {
+            "title": "Activity Lessons 1",
+            "link": "/ActivityLessons"
+          },
+          {
+            "title": "Activity Lessons 2",
+            "link": "/ActivityLessons2"
+          }
+        ]
+      },
+      {
+        "title": "Gallery",
+        "link": "/gallery"
+      },
+      {
+        "title": "Contact Us",
+        "link": "/contactus"
+      }
+    ],
+    "logo": {
+      "title": "Transition Discovery",
+      "link": "/",
+      "imgsrc": "logo.jpg"
+    }
+  },
+  "footer": {
+    "topFooter": {
+      "footerLinks": [
+        {
+          "heading": "Quick Links",
+          "links": [
+            { "title": "Home", "link": "google.com" },
+            { "title": "Contact Us", "link": "google.com" },
+            { "title": "Gallery", "link": "google.com" },
+            { "title": "Events", "link": "google.com" },
+            { "title": "Resources", "link": "google.com" },
+            { "title": "Sitemap", "link": "google.com" }
+          ]
+        },
+        {
+          "heading": "Company",
+          "links": [
+            { "title": "Our Mission", "link": "google.com" },
+            { "title": "Our Impact", "link": "google.com" },
+            { "title": "Our History", "link": "google.com" },
+            { "title": "Ethical Policies", "link": "google.com" },
+            { "title": "Youth Involvement", "link": "google.com" },
+            { "title": "Parent", "link": "google.com" },
+            { "title": "Involvement", "link": "google.com" },
+            { "title": "Stakeholder", "link": "google.com" },
+            { "title": "TQEP", "link": "google.com" },
+            { "title": "Scholarships", "link": "google.com" },
+            { "title": "FAQs", "link": "google.com" }
+          ]
+        },
+        {
+          "heading": "Activity Lessons",
+          "links": [
+            { "title": "Transtion Planning", "link": "google.com" },
+            { "title": "Youth Development", "link": "google.com" },
+            { "title": "Person and Family", "link": "google.com" },
+            { "title": "Directed Planning", "link": "google.com" },
+            { "title": "Family Engagement", "link": "google.com" },
+            { "title": "Relationships", "link": "google.com" },
+            {
+              "title": "Independent Living and Community",
+              "link": "google.com"
+            },
+            { "title": "Engagement", "link": "google.com" },
+            { "title": "Cross Agency", "link": "google.com" },
+            { "title": "Collaboration", "link": "google.com" },
+            { "title": "Employment", "link": "google.com" },
+            { "title": "Postsecondary", "link": "google.com" },
+            { "title": "Education", "link": "google.com" }
+          ]
+        },
+        {
+          "heading": "Policies",
+          "links": [
+            { "title": "Privacy Policy", "link": "google.com" },
+            { "title": "Website Use Policy", "link": "google.com" },
+            { "title": "Cookies Policy", "link": "google.com" },
+            { "title": "Terms and Conditions", "link": "google.com" }
+          ]
+        }
+      ]
+    },
+    "bottomFooter": {
+      "footerText": "2020 Copyright - TransitionDiscoveries | Designed by -Janbask Digital Design"
+    },
+    "AboutUs": {
+      "Banner": {
+        "heading": "About Transition Discoveries",
+        "text": "We follow our mission"
+      }
+    }
+  }
+}
